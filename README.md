@@ -9,6 +9,7 @@
 
   * [Kyiv Go Meetup January 2018](#kyiv-go-meetup-january-2018)
   * [Встреча в Avito](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-avito)
+  * [Go 1\.9 Release Party: лучше поздно, чем никогда](#go-19-release-party-%D0%BB%D1%83%D1%87%D1%88%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D0%BD%D0%BE-%D1%87%D0%B5%D0%BC-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0)
   * [Go Way Fest 2017](#go-way-fest-2017)
 
 
@@ -39,6 +40,18 @@
 | [Как устроен garbage collector в Go 1.9 - Андрей Дроздов, Avito](https://youtu.be/CX4GSErFenI) | 51:37 | [:notebook:](https://speakerdeck.com/avitotech/kak-ustroien-garbage-collector-v-go-1-dot-9-andriei-drozdov-avito) |
 | [SELECT * FROM table, или Туда и обратно - Кирилл Шваков, Wisebits](https://youtu.be/N_iHzIew2Wg) | 31:09 | |
 | [Кодогенерация в Go - Илья Сауленко, Avito](https://youtu.be/HtQLBdD82vE) | 45:45 | [:notebook:](https://speakerdeck.com/avitotech/kodoghienieratsiia-v-go-il-ia-saulienko-avito) |
+
+
+## Go 1.9 Release Party: лучше поздно, чем никогда
+
+Событие: https://www.meetup.com/Golang-Moscow/events/243355045/
+
+Дата: **21 сентября 2017**
+
+| | | |
+| --- | :---: | --- |
+| [FaaS на Golang от Тимура Нурутдинова, Lamoda](https://youtu.be/vV5Lqq2RBy8) | 40:10 | |
+| [GoMeetup 1.9](https://youtu.be/eCMkwFHCQqI) | 1:24:20 | |
 
 
 ## Go Way Fest 2017
