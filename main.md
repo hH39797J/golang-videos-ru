@@ -39,6 +39,18 @@
 | [Кодогенерация в Go - Илья Сауленко, Avito](https://youtu.be/HtQLBdD82vE) | 45:45 | [:notebook:](https://speakerdeck.com/avitotech/kodoghienieratsiia-v-go-il-ia-saulienko-avito) |
 
 
+## Go 1.9 Release Party: лучше поздно, чем никогда
+
+Событие: https://www.meetup.com/Golang-Moscow/events/243355045/
+
+Дата: **21 сентября 2017**
+
+| | | |
+| --- | :---: | --- |
+| [FaaS на Golang от Тимура Нурутдинова, Lamoda](https://youtu.be/vV5Lqq2RBy8) | 40:10 | |
+| [GoMeetup 1.9](https://youtu.be/eCMkwFHCQqI) | 1:24:20 | |
+
+
 ## Go Way Fest 2017
 
 Событие: https://goway.io/
