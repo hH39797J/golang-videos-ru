@@ -86,3 +86,16 @@
 | --- | :---: | --- |
 | [Тезисы](http://ritfest.ru/2017/abstracts/2564) + [Микросервисы в продакшн. Kubernetes / Елена Граховац, Игорь Должиков (Openprovider)](https://youtu.be/0ndWw1udpsA?t=7m16s) | 2:37:59 | [:notebook:](https://github.com/k8s-community/rit-2017-slides) | 
 
+
+## Kyiv Go Meetup June 2017
+
+Событие: https://www.meetup.com/uagolang/events/239752726/
+
+Дата: **01 июня 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Go in Production - Ivan Kutuzov](https://youtu.be/03roDYNBkok) | 40:44 | [:notebook:](https://go-talks.appspot.com/github.com/GolangUA/talks/2017/0428-go-in-prod.slide#1) |
+| [Software Licensing: A Minefield Guide - Andrey Listochkin](https://youtu.be/fSUdXAKZNcA) | 46:12 | [:notebook:](https://docs.google.com/presentation/d/1ADPMDa_Sna9-zmChndL4YwxXUNZ3fX_nCyM2PWVwsx8/edit#slide=id.p) |
+| [Organized DevOps - Vsevolod Polyakov](https://youtu.be/yKkBw2xgEdo) | 21:14 | |
+
