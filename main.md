@@ -75,3 +75,14 @@
 | [Daniel Podolskiy - Build Your Own Network Security Protocol and Get Away Uncaught](https://youtu.be/SxGCSlqnGtw) | 32:26 | [:notebook:](https://www.slideshare.net/DanielPodolsky/build-your-own-network-security-protocol-and-get-away-uncaught) |
 | [Alexey Palazhchenko - Profiling and Optimizing Go Programs](https://youtu.be/WalT3Q49UQY) | 33:44 | [:notebook:](https://speakerdeck.com/aleksi/profiling-and-optimizing-go-programs) |
 
+
+## РИТ++ 2017
+
+Событие: http://ritfest.ru/2017
+
+Дата: **06 июня 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Тезисы](http://ritfest.ru/2017/abstracts/2564) + [Микросервисы в продакшн. Kubernetes / Елена Граховац, Игорь Должиков (Openprovider)](https://youtu.be/0ndWw1udpsA?t=7m16s) | 2:37:59 | [:notebook:](https://github.com/k8s-community/rit-2017-slides) | 
+
