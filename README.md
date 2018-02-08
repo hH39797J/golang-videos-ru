@@ -13,6 +13,7 @@
   * [Go Way Fest 2017](#go-way-fest-2017)
   * [РИТ\+\+ 2017](#%D0%A0%D0%98%D0%A2-2017)
   * [Kyiv Go Meetup June 2017](#kyiv-go-meetup-june-2017)
+  * [GoLang meetup at Lazada](#golang-meetup-at-lazada)
 
 
 # События
@@ -103,4 +104,19 @@
 | [Go in Production - Ivan Kutuzov](https://youtu.be/03roDYNBkok) | 40:44 | [:notebook:](https://go-talks.appspot.com/github.com/GolangUA/talks/2017/0428-go-in-prod.slide#1) |
 | [Software Licensing: A Minefield Guide - Andrey Listochkin](https://youtu.be/fSUdXAKZNcA) | 46:12 | [:notebook:](https://docs.google.com/presentation/d/1ADPMDa_Sna9-zmChndL4YwxXUNZ3fX_nCyM2PWVwsx8/edit#slide=id.p) |
 | [Organized DevOps - Vsevolod Polyakov](https://youtu.be/yKkBw2xgEdo) | 21:14 | |
+
+
+## GoLang meetup at Lazada
+
+Событие: http://techblog.lazada.com/meetup/go/cockroachdb/profiling/2017/06/26/lazada-golang-meetup.html
+
+Дата: **25 мая 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Introduction](https://youtu.be/6LeQUBLO6ds) | 1:28 | |
+| [Profiling by Nikita Romanov](https://youtu.be/frtLB7HVT18) | 51:45 | |
+| [What the fuzz by Alexey Palazhchenko](https://youtu.be/tn7vxf7xv9o) | 37:31 | [:notebook:](https://speakerdeck.com/aleksi/what-the-fuzz) |
+| [Enum types in Go by Andrey Chernov](https://youtu.be/BSknNvSRIno) | 26:08 | |
+| [CockroachDB by Vitaliy Levchenko and Dmitriy Vorobyov](https://youtu.be/_wg-Nczatxo) | 1:20:05 | |
 
