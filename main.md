@@ -114,3 +114,16 @@
 | [Enum types in Go by Andrey Chernov](https://youtu.be/BSknNvSRIno) | 26:08 | |
 | [CockroachDB by Vitaliy Levchenko and Dmitriy Vorobyov](https://youtu.be/_wg-Nczatxo) | 1:20:05 | |
 
+
+## Стачка 2017
+
+Событие: https://nastachku.ru/archive/2017/index.php?sl=ru
+
+Дата: **14 апреля 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Алексей Палажченко. Профилирование и оптимизация программ на Go](https://youtu.be/xRs1gN9BCVw) | 37:36 | [:notebook:](https://speakerdeck.com/aleksi/profilirovaniie-i-optimizatsiia-proghramm-na-go) |
+| [Юрий Васияров. Lazada. Golang - опыт промышленной разработки](https://youtu.be/MitOZ3Bx6QE) | 36:16 | [:notebook:](https://www.slideshare.net/YuriyVasiyarov/2017-golang) |
+| [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
+
