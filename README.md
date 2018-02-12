@@ -14,6 +14,7 @@
   * [РИТ\+\+ 2017](#%D0%A0%D0%98%D0%A2-2017)
   * [Kyiv Go Meetup June 2017](#kyiv-go-meetup-june-2017)
   * [GoLang meetup at Lazada](#golang-meetup-at-lazada)
+  * [Стачка 2017](#%D0%A1%D1%82%D0%B0%D1%87%D0%BA%D0%B0-2017)
 
 
 # События
@@ -119,4 +120,17 @@
 | [What the fuzz by Alexey Palazhchenko](https://youtu.be/tn7vxf7xv9o) | 37:31 | [:notebook:](https://speakerdeck.com/aleksi/what-the-fuzz) |
 | [Enum types in Go by Andrey Chernov](https://youtu.be/BSknNvSRIno) | 26:08 | |
 | [CockroachDB by Vitaliy Levchenko and Dmitriy Vorobyov](https://youtu.be/_wg-Nczatxo) | 1:20:05 | |
+
+
+## Стачка 2017
+
+Событие: https://nastachku.ru/archive/2017/index.php?sl=ru
+
+Дата: **14 апреля 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Алексей Палажченко. Профилирование и оптимизация программ на Go](https://youtu.be/xRs1gN9BCVw) | 37:36 | [:notebook:](https://speakerdeck.com/aleksi/profilirovaniie-i-optimizatsiia-proghramm-na-go) |
+| [Юрий Васияров. Lazada. Golang - опыт промышленной разработки](https://youtu.be/MitOZ3Bx6QE) | 36:16 | [:notebook:](https://www.slideshare.net/YuriyVasiyarov/2017-golang) |
+| [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
 
