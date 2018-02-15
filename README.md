@@ -1,12 +1,13 @@
-# Описание
+# golang-videos-ru
 
 Собрание видеозаписей докладов про [Go](https://golang.org/) за 2016, 2017, 2018 год.
 
 В основном на русском языке. 
 
 
-# Содержание
+## Содержание
 
+* [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [Kyiv Go Meetup January 2018](#kyiv-go-meetup-january-2018)
   * [Встреча в Avito](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-avito)
   * [Go 1\.9 Release Party: лучше поздно, чем никогда](#go-19-release-party-%D0%BB%D1%83%D1%87%D1%88%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D0%BD%D0%BE-%D1%87%D0%B5%D0%BC-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0)
@@ -15,6 +16,7 @@
   * [Kyiv Go Meetup June 2017](#kyiv-go-meetup-june-2017)
   * [GoLang meetup at Lazada](#golang-meetup-at-lazada)
   * [Стачка 2017](#%D0%A1%D1%82%D0%B0%D1%87%D0%BA%D0%B0-2017)
+* [Учебные материалы](#%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 
 
 # События
@@ -133,4 +135,12 @@
 | [Алексей Палажченко. Профилирование и оптимизация программ на Go](https://youtu.be/xRs1gN9BCVw) | 37:36 | [:notebook:](https://speakerdeck.com/aleksi/profilirovaniie-i-optimizatsiia-proghramm-na-go) |
 | [Юрий Васияров. Lazada. Golang - опыт промышленной разработки](https://youtu.be/MitOZ3Bx6QE) | 36:16 | [:notebook:](https://www.slideshare.net/YuriyVasiyarov/2017-golang) |
 | [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
+
+
+# Учебные материалы
+
+
+| | |
+| --- | :---: |
+| [Лекции Техносферы: Программирование на Go](https://habrahabr.ru/company/mailru/blog/327966/) | 10 мая 2017 |
 
