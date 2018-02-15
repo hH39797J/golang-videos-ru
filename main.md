@@ -127,3 +127,6 @@
 | [Юрий Васияров. Lazada. Golang - опыт промышленной разработки](https://youtu.be/MitOZ3Bx6QE) | 36:16 | [:notebook:](https://www.slideshare.net/YuriyVasiyarov/2017-golang) |
 | [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
 
+
+# Учебные материалы
+
