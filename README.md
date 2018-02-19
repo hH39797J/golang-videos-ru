@@ -18,6 +18,7 @@
   * [Kyiv Go Meetup June 2017](#kyiv-go-meetup-june-2017)
   * [GoLang meetup at Lazada](#golang-meetup-at-lazada)
   * [Стачка 2017](#%D0%A1%D1%82%D0%B0%D1%87%D0%BA%D0%B0-2017)
+  * [Весенний Go](#%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-go)
 * [Учебные материалы](#%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 
 
@@ -137,6 +138,19 @@
 | [Алексей Палажченко. Профилирование и оптимизация программ на Go](https://youtu.be/xRs1gN9BCVw) | 37:36 | [:notebook:](https://speakerdeck.com/aleksi/profilirovaniie-i-optimizatsiia-proghramm-na-go) |
 | [Юрий Васияров. Lazada. Golang - опыт промышленной разработки](https://youtu.be/MitOZ3Bx6QE) | 36:16 | [:notebook:](https://www.slideshare.net/YuriyVasiyarov/2017-golang) |
 | [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
+
+
+## Весенний Go
+
+Событие: https://habrahabr.ru/company/badoo/blog/302134/
+
+Дата: **14 мая 2016**
+
+| | | |
+| --- | :---: | --- |
+| ["Оптимизация программ на Go", Марко Кевац](https://youtu.be/0i1nO9gwACY) | 52:54 | [:notebook:](https://www.slideshare.net/BadooDev/profiling-and-optimizing-go-programs) |
+| [«Семь тысяч rps, один Go», Сергей Камардин](https://youtu.be/iriGUxZI-Cg) | 43:32 | [:notebook:](https://www.slideshare.net/BadooDev/rps-go) |
+| [«Reform: путь к лучшему ORM», Алексей Палажченко](https://youtu.be/IFBnCh_rs6g) | 40:25 | [:notebook:](https://speakerdeck.com/aleksi/reform-put-k-luchshiemu-orm) |
 
 
 # Учебные материалы
