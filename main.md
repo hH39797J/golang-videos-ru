@@ -130,6 +130,19 @@
 | [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
 
 
+## Весенний Go
+
+Событие: https://habrahabr.ru/company/badoo/blog/302134/
+
+Дата: **14 мая 2016**
+
+| | | |
+| --- | :---: | --- |
+| ["Оптимизация программ на Go", Марко Кевац](https://youtu.be/0i1nO9gwACY) | 52:54 | [:notebook:](https://www.slideshare.net/BadooDev/profiling-and-optimizing-go-programs) |
+| [«Семь тысяч rps, один Go», Сергей Камардин](https://youtu.be/iriGUxZI-Cg) | 43:32 | [:notebook:](https://www.slideshare.net/BadooDev/rps-go) |
+| [«Reform: путь к лучшему ORM», Алексей Палажченко](https://youtu.be/IFBnCh_rs6g) | 40:25 | [:notebook:](https://speakerdeck.com/aleksi/reform-put-k-luchshiemu-orm) |
+
+
 # Учебные материалы
 
 
