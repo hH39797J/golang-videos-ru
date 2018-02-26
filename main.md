@@ -130,6 +130,21 @@
 | [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
 
 
+## GO meetup от 14.04.2017
+
+Событие: https://habrahabr.ru/company/mailru/blog/325042/
+
+Дата: **14 апреля 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Go Template Toolkit](https://youtu.be/Tfa_oDTUK3c) Сергей Свистунов, Lazada | 22:24 | [:notebook:](https://www.slideshare.net/MailRuGroup/go-template-toolkit-lazada) |
+| [Структурное логирование](https://youtu.be/c_MPDg2C9tg) Нурутдинов Тимур, Lamoda.ru | 26:36 | |
+| [Как я написала платформу, взаимодействующую более чем с 15 странами](https://youtu.be/qj3kNvRmSRQ) Невская Елена, Linkit Vostok | 18:51 | [:notebook:](https://www.slideshare.net/MailRuGroup/15-linkit-vostok) |
+| [Pub/Sub && 1M WebSockets](https://youtu.be/dIiNBSOeVPs) Сергей Камардин, Mail.Ru Group | 25:54 | |
+| [Профилирование Go приложений](https://youtu.be/-a0CfL1pcxI) Стас Макаров, 220 Вольт | 23:29 | [:notebook:](https://www.slideshare.net/MailRuGroup/go-220) |
+
+
 ## Весенний Go
 
 Событие: https://habrahabr.ru/company/badoo/blog/302134/
