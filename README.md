@@ -18,6 +18,7 @@
   * [Kyiv Go Meetup June 2017](#kyiv-go-meetup-june-2017)
   * [GoLang meetup at Lazada](#golang-meetup-at-lazada)
   * [Стачка 2017](#%D0%A1%D1%82%D0%B0%D1%87%D0%BA%D0%B0-2017)
+  * [GO meetup от 14\.04\.2017](#go-meetup-%D0%BE%D1%82-14042017)
   * [Весенний Go](#%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-go)
 * [Учебные материалы](#%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 
@@ -138,6 +139,21 @@
 | [Алексей Палажченко. Профилирование и оптимизация программ на Go](https://youtu.be/xRs1gN9BCVw) | 37:36 | [:notebook:](https://speakerdeck.com/aleksi/profilirovaniie-i-optimizatsiia-proghramm-na-go) |
 | [Юрий Васияров. Lazada. Golang - опыт промышленной разработки](https://youtu.be/MitOZ3Bx6QE) | 36:16 | [:notebook:](https://www.slideshare.net/YuriyVasiyarov/2017-golang) |
 | [Анатолий Панов. Lazada. Эксплуатация микросервисной архитектуры в Lazada](https://youtu.be/TLKsCOy0W2o) | 46:08 | [:notebook:](https://www.slideshare.net/AnatolyP/lazada-76500539) | 
+
+
+## GO meetup от 14.04.2017
+
+Событие: https://habrahabr.ru/company/mailru/blog/325042/
+
+Дата: **14 апреля 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Go Template Toolkit](https://youtu.be/Tfa_oDTUK3c) Сергей Свистунов, Lazada | 22:24 | [:notebook:](https://www.slideshare.net/MailRuGroup/go-template-toolkit-lazada) |
+| [Структурное логирование](https://youtu.be/c_MPDg2C9tg) Нурутдинов Тимур, Lamoda.ru | 26:36 | |
+| [Как я написала платформу, взаимодействующую более чем с 15 странами](https://youtu.be/qj3kNvRmSRQ) Невская Елена, Linkit Vostok | 18:51 | [:notebook:](https://www.slideshare.net/MailRuGroup/15-linkit-vostok) |
+| [Pub/Sub && 1M WebSockets](https://youtu.be/dIiNBSOeVPs) Сергей Камардин, Mail.Ru Group | 25:54 | |
+| [Профилирование Go приложений](https://youtu.be/-a0CfL1pcxI) Стас Макаров, 220 Вольт | 23:29 | [:notebook:](https://www.slideshare.net/MailRuGroup/go-220) |
 
 
 ## Весенний Go
