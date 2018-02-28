@@ -145,6 +145,20 @@
 | [Профилирование Go приложений](https://youtu.be/-a0CfL1pcxI) Стас Макаров, 220 Вольт | 23:29 | [:notebook:](https://www.slideshare.net/MailRuGroup/go-220) |
 
 
+## Go 1.8 release party Moscow
+
+Событие: https://habrahabr.ru/company/avito/blog/322384/
+
+Дата: **16 февраля 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Go 1.8 - Вячеслав Бахмутов (Dropbox / GolangShow)](https://youtu.be/0l4uTWgxOcA) | 14:23 | [:notebook:](https://talks.godoc.org/github.com/davecheney/go-1.8-release-party/presentation.slide#1) |
+| [Golang в Avito - Сергей Орлов, Вячеслав Крюков, Андрей Скоморохов (Avito)](https://youtu.be/1KmR_O9NMpU) | 49:45 | [:notebook:](https://www.slideshare.net/AvitoTech/golang-avito) |
+| [Как 200 строк на Go помогли нам освободить 15 серверов – Паша Мурзаков (Badoo)](https://youtu.be/uO268voCGwA) | 35:01 | [:notebook:](https://www.slideshare.net/AvitoTech/200-go-15-badoo) |
+| [Миллион открытых каналов с данными по сети – Илья Биин (Zenhotels)](https://youtu.be/Jk1cTF5-v1Q) | 28:36 | [:notebook:](https://www.slideshare.net/AvitoTech/zenhotels) |
+
+
 ## Весенний Go
 
 Событие: https://habrahabr.ru/company/badoo/blog/302134/
