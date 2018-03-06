@@ -14,7 +14,6 @@
 
 # События
 
-
 ## Kyiv Go Meetup January 2018
 
 Событие: https://www.meetup.com/uagolang/events/246485643/
@@ -76,6 +75,19 @@
 | [Andrey Chernov - How We Go at Lazada](https://youtu.be/ywSmz4_PS5w) | 36:17 | |
 | [Daniel Podolskiy - Build Your Own Network Security Protocol and Get Away Uncaught](https://youtu.be/SxGCSlqnGtw) | 32:26 | [:notebook:](https://www.slideshare.net/DanielPodolsky/build-your-own-network-security-protocol-and-get-away-uncaught) |
 | [Alexey Palazhchenko - Profiling and Optimizing Go Programs](https://youtu.be/WalT3Q49UQY) | 33:44 | [:notebook:](https://speakerdeck.com/aleksi/profiling-and-optimizing-go-programs) |
+
+
+## DevConf 2017
+
+Событие: https://devconf.ru/ru/archive/devconf2017/schedule#backend
+
+Дата: **17 июня 2017**
+
+| | | |
+| --- | :---: | --- |
+| [[Go] Начало](https://devconf.ru/ru/archive/devconf2017/offer/339) Алексей Палажченко | 14:34 | [:notebook:](https://devconf.ru/data/devconf2017/ppt/339.pdf) |
+| [[Go] Golang по обе стороны баррикад](https://devconf.ru/ru/archive/devconf2017/offer/338) Алексей Акулович | 13:47 | [:notebook:](https://devconf.ru/data/devconf2017/ppt/338.pdf) |
+| [[Go] История двух микросервисов](https://devconf.ru/ru/archive/devconf2017/offer/337) Дмитрий Пацура | 13:55 | [:notebook:](https://devconf.ru/data/devconf2017/ppt/337.pdf) |
 
 
 ## РИТ++ 2017
@@ -173,7 +185,6 @@
 
 
 # Учебные материалы
-
 
 | | | | |
 | --- | :---: | :---: | :---: |
