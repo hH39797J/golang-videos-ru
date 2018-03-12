@@ -14,6 +14,20 @@
 
 # События
 
+## Go 1.10 Release Party @ Badoo
+
+Событие: https://habrahabr.ru/company/badoo/blog/350490/
+
+Дата: **24 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [«Новое в Go 1.10» — Алексей Палажченко (Percona)](https://youtu.be/RLR1C8xXiiA) | 39:24 | [:notebook:](https://speakerdeck.com/badoo_tech/novoie-v-go-1-dot-10-alieksiei-palazhchienko-percona) |
+| [«Сниффинг RPC-трафика for fun and profit» — Марко Кевац (Badoo)](https://youtu.be/IVKpmk1QTWM) | 39:57 | [:notebook:](https://speakerdeck.com/badoo_tech/sniffingh-rpc-trafika-for-fun-and-profit-marko-kievats-badoo) |
+| [«Graceful Shutdown в Go-сервисах и как подружить его с Kubernetes» — Артемий Рябинков (Avito)](https://youtu.be/me5iyiheOC8) | 47:48 | [:notebook:](https://speakerdeck.com/badoo_tech/graceful-shutdown-v-go-siervisakh-i-kak-podruzhit-iegho-s-kubernetes-artiemii-riabinkov-avito) |
+| [«Введение в тестирование в Go» — Алексей Махов (Avito)](https://youtu.be/ZnUyghUDAyo) | 29:46 | [:notebook:](https://speakerdeck.com/badoo_tech/vviedieniie-v-tiestirovaniie-v-go-alieksiei-makhov-avito) |
+
+
 ## Kyiv Go Meetup January 2018
 
 Событие: https://www.meetup.com/uagolang/events/246485643/
