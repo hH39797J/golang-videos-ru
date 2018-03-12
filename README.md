@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [Go 1\.10 Release Party @ Badoo](#go-110-release-party--badoo)
   * [Kyiv Go Meetup January 2018](#kyiv-go-meetup-january-2018)
   * [Встреча в Avito](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-avito)
   * [Go 1\.9 Release Party: лучше поздно, чем никогда](#go-19-release-party-%D0%BB%D1%83%D1%87%D1%88%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D0%BD%D0%BE-%D1%87%D0%B5%D0%BC-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0)
@@ -26,6 +27,20 @@
 
 
 # События
+
+## Go 1.10 Release Party @ Badoo
+
+Событие: https://habrahabr.ru/company/badoo/blog/350490/
+
+Дата: **24 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [«Новое в Go 1.10» — Алексей Палажченко (Percona)](https://youtu.be/RLR1C8xXiiA) | 39:24 | [:notebook:](https://speakerdeck.com/badoo_tech/novoie-v-go-1-dot-10-alieksiei-palazhchienko-percona) |
+| [«Сниффинг RPC-трафика for fun and profit» — Марко Кевац (Badoo)](https://youtu.be/IVKpmk1QTWM) | 39:57 | [:notebook:](https://speakerdeck.com/badoo_tech/sniffingh-rpc-trafika-for-fun-and-profit-marko-kievats-badoo) |
+| [«Graceful Shutdown в Go-сервисах и как подружить его с Kubernetes» — Артемий Рябинков (Avito)](https://youtu.be/me5iyiheOC8) | 47:48 | [:notebook:](https://speakerdeck.com/badoo_tech/graceful-shutdown-v-go-siervisakh-i-kak-podruzhit-iegho-s-kubernetes-artiemii-riabinkov-avito) |
+| [«Введение в тестирование в Go» — Алексей Махов (Avito)](https://youtu.be/ZnUyghUDAyo) | 29:46 | [:notebook:](https://speakerdeck.com/badoo_tech/vviedieniie-v-tiestirovaniie-v-go-alieksiei-makhov-avito) |
+
 
 ## Kyiv Go Meetup January 2018
 
