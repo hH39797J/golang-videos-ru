@@ -185,6 +185,20 @@
 | [Миллион открытых каналов с данными по сети – Илья Биин (Zenhotels)](https://youtu.be/Jk1cTF5-v1Q) | 28:36 | [:notebook:](https://www.slideshare.net/AvitoTech/zenhotels) |
 
 
+## Go Meetup 6.8.2016
+
+Событие: https://www.youtube.com/playlist?list=PLVsTMiFsjt3jscFllyKAnocgUj-7AyVIP
+
+Дата: **06 августа 2016**
+
+| | | |
+| --- | :---: | --- |
+| [Вячеслав Бахмутов](https://youtu.be/9nO0QGATjdo) «Внутренности Go» | 42:42 | [:notebook:](http://m0sth8.github.io/runtime-2/#1) |
+| [Виктор Стародуб](https://youtu.be/klENyWhS-D4) «Гигабайт JSON'а в секунду» | 53:47 | [:notebook:](https://docs.google.com/presentation/d/1e6K02yoInFwpmc2Prb9E7T3t92E7MbgDh33_K3uBOyU/edit) |
+| [Виталий Левченко](https://youtu.be/gVvzk3ooeh0) «Встроенные БД в Go» | 41:00 | |
+| [Вадим Марковцев](https://youtu.be/ATN25k4GNzY) «Работа с Go из Python» | 42:33 | [:notebook:](http://vmarkovtsev.github.io/go-meetup-2016-moscow/#) |
+
+
 ## Весенний Go
 
 Событие: https://habrahabr.ru/company/badoo/blog/302134/
