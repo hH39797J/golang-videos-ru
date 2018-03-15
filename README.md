@@ -22,6 +22,7 @@
   * [Стачка 2017](#%D0%A1%D1%82%D0%B0%D1%87%D0%BA%D0%B0-2017)
   * [GO meetup от 14\.04\.2017](#go-meetup-%D0%BE%D1%82-14042017)
   * [Go 1\.8 release party Moscow](#go-18-release-party-moscow)
+  * [Go Meetup 6\.8\.2016](#go-meetup-682016)
   * [Весенний Go](#%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-go)
 * [Учебные материалы](#%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 
@@ -197,6 +198,20 @@
 | [Golang в Avito - Сергей Орлов, Вячеслав Крюков, Андрей Скоморохов (Avito)](https://youtu.be/1KmR_O9NMpU) | 49:45 | [:notebook:](https://www.slideshare.net/AvitoTech/golang-avito) |
 | [Как 200 строк на Go помогли нам освободить 15 серверов – Паша Мурзаков (Badoo)](https://youtu.be/uO268voCGwA) | 35:01 | [:notebook:](https://www.slideshare.net/AvitoTech/200-go-15-badoo) |
 | [Миллион открытых каналов с данными по сети – Илья Биин (Zenhotels)](https://youtu.be/Jk1cTF5-v1Q) | 28:36 | [:notebook:](https://www.slideshare.net/AvitoTech/zenhotels) |
+
+
+## Go Meetup 6.8.2016
+
+Событие: https://www.youtube.com/playlist?list=PLVsTMiFsjt3jscFllyKAnocgUj-7AyVIP
+
+Дата: **06 августа 2016**
+
+| | | |
+| --- | :---: | --- |
+| [Вячеслав Бахмутов](https://youtu.be/9nO0QGATjdo) «Внутренности Go» | 42:42 | [:notebook:](http://m0sth8.github.io/runtime-2/#1) |
+| [Виктор Стародуб](https://youtu.be/klENyWhS-D4) «Гигабайт JSON'а в секунду» | 53:47 | [:notebook:](https://docs.google.com/presentation/d/1e6K02yoInFwpmc2Prb9E7T3t92E7MbgDh33_K3uBOyU/edit) |
+| [Виталий Левченко](https://youtu.be/gVvzk3ooeh0) «Встроенные БД в Go» | 41:00 | |
+| [Вадим Марковцев](https://youtu.be/ATN25k4GNzY) «Работа с Go из Python» | 42:33 | [:notebook:](http://vmarkovtsev.github.io/go-meetup-2016-moscow/#) |
 
 
 ## Весенний Go
