@@ -12,6 +12,7 @@
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [Go 1\.10 Release Party @ Badoo](#go-110-release-party--badoo)
   * [Kyiv Go Meetup January 2018](#kyiv-go-meetup-january-2018)
+  * [GoWay Meetup 1\.1](#goway-meetup-11)
   * [Встреча в Avito](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-avito)
   * [Go 1\.9 Release Party: лучше поздно, чем никогда](#go-19-release-party-%D0%BB%D1%83%D1%87%D1%88%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D0%BD%D0%BE-%D1%87%D0%B5%D0%BC-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0)
   * [Go Way Fest 2017](#go-way-fest-2017)
@@ -53,6 +54,22 @@
 | --- | :---: | --- |
 | [[RU] Multithreading in Go - Aliaksandr Valialkin](https://youtu.be/HzAXT1ORH3o) | 1:09:40 | [:notebook:](https://docs.google.com/presentation/d/1n944pO3RhKyPIirZpKFXf7Ab0SakPrZzujym_qw5VQM/edit#slide=id.p) |
 | [[EN] Cooking gRPC - Alexey Palazhchenko](https://youtu.be/E5IXyMLP1RI) | 38:42 | [:notebook:](https://speakerdeck.com/aleksi/cooking-grpc) |
+
+
+## GoWay Meetup 1.1
+
+Событие: https://www.meetup.com/SPACE-meetups/events/245722441/
+
+Дополнение: https://github.com/gowaymeetup/talks/tree/master/gowaymeetup_1.1
+
+Дата: **13 декабря 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Using fallback to build reliable services – Антон Регеда](https://youtu.be/808peMLfp6c) | 31:08 | [:notebook:](https://github.com/gowaymeetup/talks/blob/master/gowaymeetup_1.1/using_fallback_to_build_reliable_services.pdf), [:octocat:](https://github.com/regeda/go.fallback) |
+| [Using prepared SQL statements in Go – Макс Чечель](https://youtu.be/j4WhrmgnwVE) | 32:10 | [:notebook:](https://github.com/gowaymeetup/talks/blob/master/gowaymeetup_1.1/Using%20prepared%20SQL%20statements%20in%20Go.pdf) |
+| [How to Contribute to Go – Stanislav Afanasev](https://youtu.be/0a8u74Ul-hM) | 18:04 | [:notebook:](https://go-talks.appspot.com/github.com/gowaymeetup/talks/gowaymeetup_1.1/goandfix_me/main.slide#1) |
+| [Lightning Talks](https://youtu.be/ev4xqQze2Mw) | 6:25 | |
 
 
 ## Встреча в Avito
