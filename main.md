@@ -40,6 +40,22 @@
 | [[EN] Cooking gRPC - Alexey Palazhchenko](https://youtu.be/E5IXyMLP1RI) | 38:42 | [:notebook:](https://speakerdeck.com/aleksi/cooking-grpc) |
 
 
+## GoWay Meetup 1.1
+
+Событие: https://www.meetup.com/SPACE-meetups/events/245722441/
+
+Дополнение: https://github.com/gowaymeetup/talks/tree/master/gowaymeetup_1.1
+
+Дата: **13 декабря 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Using fallback to build reliable services – Антон Регеда](https://youtu.be/808peMLfp6c) | 31:08 | [:notebook:](https://github.com/gowaymeetup/talks/blob/master/gowaymeetup_1.1/using_fallback_to_build_reliable_services.pdf), [:octocat:](https://github.com/regeda/go.fallback) |
+| [Using prepared SQL statements in Go – Макс Чечель](https://youtu.be/j4WhrmgnwVE) | 32:10 | [:notebook:](https://github.com/gowaymeetup/talks/blob/master/gowaymeetup_1.1/Using%20prepared%20SQL%20statements%20in%20Go.pdf) |
+| [How to Contribute to Go – Stanislav Afanasev](https://youtu.be/0a8u74Ul-hM) | 18:04 | [:notebook:](https://go-talks.appspot.com/github.com/gowaymeetup/talks/gowaymeetup_1.1/goandfix_me/main.slide#1) |
+| [Lightning Talks](https://youtu.be/ev4xqQze2Mw) | 6:25 | |
+
+
 ## Встреча в Avito
 
 Событие: https://golang-moscow.timepad.ru/event/587055/
