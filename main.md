@@ -28,6 +28,20 @@
 | [«Введение в тестирование в Go» — Алексей Махов (Avito)](https://youtu.be/ZnUyghUDAyo) | 29:46 | [:notebook:](https://speakerdeck.com/badoo_tech/vviedieniie-v-tiestirovaniie-v-go-alieksiei-makhov-avito) |
 
 
+## GoWay Meetup v1.2
+
+Событие: https://www.meetup.com/SPACE-meetups/events/247417920/
+
+Дата: **15 февраля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Natalie Pistunovich- Tensorflow and Go](https://youtu.be/BXVxVOjL0zk) | 20:20 | [:octocat:](https://github.com/Pisush/break-captcha-tensorflow) |
+| [Mike Kabischev- Go 1 10 What’s new](https://youtu.be/DXX6GvTF35M) | 17:31 | |
+| [Стас Афанасьев- Пишем криптовалюту на Go](https://youtu.be/jyrRrUrUml4) | 30:39 | [:notebook:](https://github.com/superstas/talks/blob/master/2018/02/cryptocurrencies_and_go.pdf) |
+| [Мстислав Бобаков- Escape analysis на практике](https://youtu.be/2K6hGOB0N_A) | 34:32 | [:notebook:](https://speakerdeck.com/mbobakov/golang-escape-analysis) |
+
+
 ## Kyiv Go Meetup January 2018
 
 Событие: https://www.meetup.com/uagolang/events/246485643/
