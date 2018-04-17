@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [Golang Lviv Spring Meetup](#golang-lviv-spring-meetup)
   * [Go 1\.10 Release Party @ Badoo](#go-110-release-party--badoo)
   * [GoWay Meetup v1\.2](#goway-meetup-v12)
   * [Kyiv Go Meetup January 2018](#kyiv-go-meetup-january-2018)
@@ -30,6 +31,21 @@
 
 
 # События
+
+## Golang Lviv Spring Meetup
+
+Событие: https://www.meetup.com/Lviv-Golang-Group/events/248331495/
+
+Дата: **24 марта 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Bogdan Prodan - The State of Go](https://youtu.be/hAQ4ZKaL5po?t=18m58s) | начало в 18:58 | |
+| [Nastya Kruglikova - Magic of Reflection](https://youtu.be/hAQ4ZKaL5po?t=57m12s) | начало в 57:12 | |
+| [Borys Hulii - Own cryptocurrency on Hyperledger with Go](https://youtu.be/hAQ4ZKaL5po?t=2h3m58s) | начало в 2:03:58 | |
+| [Denys Goldiner - Go toolset](https://youtu.be/hAQ4ZKaL5po?t=3h3m41s) | начало в 3:03:41 | |
+| [Ivan Kutuzov - How we built Go competence ](https://youtu.be/hAQ4ZKaL5po?t=3h41m) | начало в 3:41:00 | |
+
 
 ## Go 1.10 Release Party @ Badoo
 
