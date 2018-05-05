@@ -14,6 +14,19 @@
 
 # События
 
+## GoWay Meetup v1.3
+
+Событие: https://events.dev.by/goway-meetup-v1-3
+
+Дата: **11 апреля 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Мониторинг всего в условиях микросервисной архитектуры, Михаил Прокопчук](https://youtu.be/cQgHt9V5mOE) | 51:27 | |
+| [Погружение в vgo, Илья Данилкин](https://youtu.be/hY7rLo0yaQY) | 49:15 | [:notebook:](https://talks.godoc.org/github.com/gettaxi/go-talks/2018/04/goway-meetup-v1.3/dive-into-vgo/dive-into-vgo.slide#1) |
+| [Тестирование в Go, Алексей Махов](https://youtu.be/ZRrzdrmBKkk) | 36:13 | |
+
+
 ## Golang Lviv Spring Meetup
 
 Событие: https://www.meetup.com/Lviv-Golang-Group/events/248331495/
