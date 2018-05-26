@@ -16,6 +16,7 @@
   * [GoWay Meetup v1\.2](#goway-meetup-v12)
   * [Kyiv Go Meetup January 2018](#kyiv-go-meetup-january-2018)
   * [GoWay Meetup 1\.1](#goway-meetup-11)
+  * [GDG DevFest Minsk 2017](#gdg-devfest-minsk-2017)
   * [Встреча в Avito](#%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0-%D0%B2-avito)
   * [Go 1\.9 Release Party: лучше поздно, чем никогда](#go-19-release-party-%D0%BB%D1%83%D1%87%D1%88%D0%B5-%D0%BF%D0%BE%D0%B7%D0%B4%D0%BD%D0%BE-%D1%87%D0%B5%D0%BC-%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0)
   * [Go Way Fest 2017](#go-way-fest-2017)
@@ -115,6 +116,19 @@
 | [Using prepared SQL statements in Go – Макс Чечель](https://youtu.be/j4WhrmgnwVE) | 32:10 | [:notebook:](https://github.com/gowaymeetup/talks/blob/master/gowaymeetup_1.1/Using%20prepared%20SQL%20statements%20in%20Go.pdf) |
 | [How to Contribute to Go – Stanislav Afanasev](https://youtu.be/0a8u74Ul-hM) | 18:04 | [:notebook:](https://go-talks.appspot.com/github.com/gowaymeetup/talks/gowaymeetup_1.1/goandfix_me/main.slide#1) |
 | [Lightning Talks](https://youtu.be/ev4xqQze2Mw) | 6:25 | |
+
+
+## GDG DevFest Minsk 2017
+
+Событие: https://devfest.by/
+
+Дата: **25 ноября 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Andrei Drozdov (Avito) - Как устроен garbage collector в Go 1.9](https://youtu.be/gohIdIKBmzg) | 28:02 | |
+| [Stas Afanasiev (Juno) - Pipelines на базе io.Reader/io.Writer](https://youtu.be/IJyBkIwPPps) | 32:49 | |
+| [Max Chechel (Juno) - Тестирование программ на Go с использованием генерации кода](https://youtu.be/PYD6zPD2Sv0) | 31:37 | |
 
 
 ## Встреча в Avito
