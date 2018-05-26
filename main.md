@@ -98,6 +98,19 @@
 | [Lightning Talks](https://youtu.be/ev4xqQze2Mw) | 6:25 | |
 
 
+## GDG DevFest Minsk 2017
+
+Событие: https://devfest.by/
+
+Дата: **25 ноября 2017**
+
+| | | |
+| --- | :---: | --- |
+| [Andrei Drozdov (Avito) - Как устроен garbage collector в Go 1.9](https://youtu.be/gohIdIKBmzg) | 28:02 | |
+| [Stas Afanasiev (Juno) - Pipelines на базе io.Reader/io.Writer](https://youtu.be/IJyBkIwPPps) | 32:49 | |
+| [Max Chechel (Juno) - Тестирование программ на Go с использованием генерации кода](https://youtu.be/PYD6zPD2Sv0) | 31:37 | |
+
+
 ## Встреча в Avito
 
 Событие: https://golang-moscow.timepad.ru/event/587055/
