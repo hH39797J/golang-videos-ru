@@ -14,6 +14,19 @@
 
 # События
 
+## Go Meetup SPb
+
+Событие: https://golang-spb.timepad.ru/event/710520/
+
+Дата: **17 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Vitaliy Levchenko. Практики функционального тестирования в Go](https://youtu.be/HwWV_kQ1qyk) | 44:55 | |
+| [Artem Nikitin. Go implementation for Flatdata](https://youtu.be/f2VRNO0Nfic) | 15:57 | |
+| [Николай Муляр. Как не бояться и начать работать с gRPC](https://youtu.be/PPpQ4LY-BP0) | 26:42 | |
+
+
 ## GoWay Meetup v1.3
 
 Событие: https://events.dev.by/goway-meetup-v1-3
