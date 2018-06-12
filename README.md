@@ -321,5 +321,6 @@
 
 | | | | |
 | --- | :---: | :---: | :---: |
+| ["Оптимизация размера бинарников в Go" - открытая лекция Искандера Шарипова в Иннополисе](https://youtu.be/HpriPuIfrGE) | Iskander Sharipov | 01 видео (49:20) [:notebook:](https://docs.google.com/presentation/d/1zGX5nlOOPC22-ZrwTWLBKdKfoA03baawo4f9MK2G5Aw/edit#slide=id.g33148270ac_0_143) | 31 мая 2018 |
 | [Лекции Техносферы: Программирование на Go](https://habrahabr.ru/company/mailru/blog/327966/) | Mail.Ru, Василий Романов, Илья Ожерельев, Дмитрий Дорофеев | 09 видео | 10 мая 2017 |
 
