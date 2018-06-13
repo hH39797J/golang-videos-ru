@@ -13,6 +13,7 @@
   * [Go Meetup SPb](#go-meetup-spb)
   * [GoWay Meetup v1\.3](#goway-meetup-v13)
   * [Golang Lviv Spring Meetup](#golang-lviv-spring-meetup)
+  * [GopherCon Russia 2018](#gophercon-russia-2018)
   * [Go 1\.10 Release Party @ Badoo](#go-110-release-party--badoo)
   * [GoWay Meetup v1\.2](#goway-meetup-v12)
   * [Kyiv Go Meetup January 2018](#kyiv-go-meetup-january-2018)
@@ -74,6 +75,45 @@
 | [Borys Hulii - Own cryptocurrency on Hyperledger with Go](https://youtu.be/hAQ4ZKaL5po?t=2h3m58s) | начало в 2:03:58 | |
 | [Denys Goldiner - Go toolset](https://youtu.be/hAQ4ZKaL5po?t=3h3m41s) | начало в 3:03:41 | |
 | [Ivan Kutuzov - How we built Go competence ](https://youtu.be/hAQ4ZKaL5po?t=3h41m) | начало в 3:41:00 | |
+
+
+## GopherCon Russia 2018
+
+Событие: https://www.gophercon-russia.ru/
+
+Дополнение: https://github.com/GopherConRu/talks
+
+Дата: **17 марта 2018**
+
+*Hall 1*
+
+| | | |
+| --- | :---: | --- |
+| [Go: looking back and looking forward. Brad Fitzpatrick, Google](https://youtu.be/ZCB-g2B4Y5A) | 37:45 | [:notebook:](https://docs.google.com/presentation/d/1DmyTABhGLvN0m2uHktvkP_uXop6-Xy5HPNovjDKJ83g/edit#slide=id.g34c5ef076c_0_98) |
+| ~~Brian Ketelsen. Repeatable Builds with vgo~~ | | [:notebook:](https://talks.bjk.fyi/bketelsen/gcru18-vgo?WT.mc_id=techsummitdc-twitter-brketels/#/) |
+| [Как измерить настроение кода в Git репозитории. Вадим Марковцев, source{d}](https://youtu.be/Vtm01cLWnAo) | 25:53 | [:notebook:](http://vmarkovtsev.github.io/gophercon-2018-moscow/#cover) |
+| [Автоматизируем построение карты сервисов. Елена Граховац, DCMN](https://youtu.be/HK2dU26Fsto) | 26:02 | [:notebook:](https://github.com/rumyantseva/gophercon-ru-2018/blob/master/slides-en.pdf) |
+| [Знакомство с гео-библиотекой s2 от Google и примеры ее использования в Badoo. Марко Кевац, Badoo](https://youtu.be/LHQN8lWPLw8) | 28:28 | [:notebook:](https://github.com/mkevac/gophercon-russia-2018/blob/master/GopherCon%20Russia%202018.pdf), [:octocat:](https://github.com/mkevac/gophercon-russia-2018), [habr](https://habr.com/company/badoo/blog/352754/) |
+| [Фаззинг: новое юнит тестирование. Дмитрий Вьюков, Google](https://youtu.be/EJVp13f_aIs) | 43:38 | [:notebook:](https://talks.godoc.org/github.com/dvyukov/go-fuzz/slides/fuzzing.slide#1), [:octocat:](https://github.com/dvyukov/go-fuzz/tree/master/slides) |
+| ~~Jessie Frazelle. 101 Ways to Compile a Go Binary~~ | | [:notebook:](https://docs.google.com/presentation/d/1GPb_fGBvKBmsErmusfPGrt6px__Elj6JPwP_cLskjXk/edit#slide=id.g354cc8b4bf_0_0) |
+| [Ashley McNamara + Brian Ketelsen. Go best practices](https://youtu.be/MzTcsI6tn-0) | 39:52 | [:notebook:](https://talks.bjk.fyi/bketelsen/gcru18-best#/) |
+| [Пишем свою криптовалюту на Go. Станислав Афанасьев, Juno by Gett](https://youtu.be/72y2vFPpqHg) | 35:04 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/Write%20your%20own%20cryptocurrency%20in%20Go%20-%20Stas%20Afanasiev.pdf), [:octocat:](https://github.com/superstas/gcoin) |
+| [Работа с сетью в Go. Алексей Акулович, Вконтакте](https://youtu.be/p1ILhiq5Clw) | 42:12 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/Networking%20in%20Go%20-%20Aleksey%20Akulovich.pdf) |
+| [Создание эффективной клиентской библиотеки statsd. Андрей Смирнов, Virtustream](https://youtu.be/OBHK6YjIS1U) | 42:09 | [:notebook:](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1), [:octocat:](https://github.com/smira/gopherconru2018) |
+
+*Hall 2*
+
+| | | |
+| --- | :---: | --- |
+| [Go: плюсы и минусы на фоне языка Pony. Григорий Елеськин, Mobalytics](https://youtu.be/UQAFOYyUBfE) | 28:49 | [:notebook:](https://talks.godoc.org/github.com/Nyarum/gopherconru-2018-talk/gophercon.slide#1), [:octocat:](https://github.com/Nyarum/gopherconru-2018-talk) |
+| [Встраивание в Go интерпретатора JS для реализации бизнес-логики. Алексей Найденов, ITooLabs](https://youtu.be/Jr9eWm8hbKE) | 30:37 | [:notebook:](https://github.com/growler/gophercon-russia-2018-talk/blob/master/gophercon-russia-2018-itoolabs-talk.pdf), [:octocat:](https://github.com/growler/gophercon-russia-2018-talk) |
+| [Gometalinter наше всё. Олег Шевелев, Ivi.ru](https://youtu.be/EoQZ1lcZWGM) | 32:20 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/Gometalinter%20is%20our%20everything%20-%20Oleg%20Shevelev.pdf) |
+| [Продуктовая разработка на Go: история одного проекта. Максим Рындин, Gett](https://youtu.be/ppnnuDotxZM) | 39:51 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/Product%20development%20with%20Go%20-%20a%20history%20of%20one%20project%20-%20Maxim%20Ryndin.pdf) |
+| [Restarting Go applications gracefully. Сергей Камардин, Mail.ru](https://youtu.be/1v3RilVOTKM) | 34:52 | [:notebook:](https://talks.godoc.org/github.com/gobwas/gracefultalk/graceful.slide#1), [:octocat:](https://github.com/gobwas/graceful) |
+| [Строим поисковую экосистему на Go. Андрей Дроздов, Avito](https://youtu.be/gHrcCcZLm-c) | 25:48 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/Building%20search%20ecosystem%20with%20Go%20-%20Andrey%20Drozdov.pdf), [:octocat:](https://github.com/Sulverus/gophercon) |
+| [Вы пишете тесты неправильно. Виталий Левченко, Megafon.tv](https://youtu.be/tXB08ovgEWI) | 38:43 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/You%20write%20tests%20wrong%20-%20Vitaliy%20Levchenko.pdf) |
+| [Бекенд на Go+grpc в продакшне для мобильных приложений. Андрей Минкин, Mad Devs](https://youtu.be/Sg89t3chSZM) | 36:13 | [:notebook:](https://www.slideshare.net/maddevs/grpc-91167163) |
+| [OpenTracing не только для распределенной трассировки. Константин Черкасов, Lazada](https://youtu.be/nHgfJ943z2I) | 35:48 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/OpenTracing%20not%20only%20for%20distributed%20tracing%20-%20Konstantin%20Cherkasoff.pdf) |
 
 
 ## Go 1.10 Release Party @ Badoo
