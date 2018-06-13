@@ -55,6 +55,31 @@
 | [Ivan Kutuzov - How we built Go competence ](https://youtu.be/hAQ4ZKaL5po?t=3h41m) | начало в 3:41:00 | |
 
 
+## GopherCon Russia 2018
+
+Событие: https://www.gophercon-russia.ru/
+
+Дополнение: https://github.com/GopherConRu/talks
+
+Дата: **17 марта 2018**
+
+*Hall 1*
+
+| | | |
+| --- | :---: | --- |
+| [Go: looking back and looking forward. Brad Fitzpatrick, Google.](https://youtu.be/ZCB-g2B4Y5A) | 37:45 | [:notebook:](https://docs.google.com/presentation/d/1DmyTABhGLvN0m2uHktvkP_uXop6-Xy5HPNovjDKJ83g/edit#slide=id.g34c5ef076c_0_98) |
+| ~~Brian Ketelsen. Repeatable Builds with vgo.~~ | | [:notebook:](https://talks.bjk.fyi/bketelsen/gcru18-vgo?WT.mc_id=techsummitdc-twitter-brketels/#/) |
+| [Как измерить настроение кода в Git репозитории. Вадим Марковцев, source{d}](https://youtu.be/Vtm01cLWnAo) | 25:53 | [:notebook:](http://vmarkovtsev.github.io/gophercon-2018-moscow/#cover) |
+| [Автоматизируем построение карты сервисов. Елена Граховац, DCMN.](https://youtu.be/HK2dU26Fsto) | 26:02 | [:notebook:](https://github.com/rumyantseva/gophercon-ru-2018/blob/master/slides-en.pdf) |
+| [Знакомство с гео-библиотекой s2 от Google и примеры ее использования в Badoo. Марко Кевац, Badoo.](https://youtu.be/LHQN8lWPLw8) | 28:28 | [:notebook:](https://github.com/mkevac/gophercon-russia-2018/blob/master/GopherCon%20Russia%202018.pdf), [:octocat:](https://github.com/mkevac/gophercon-russia-2018), [habr](https://habr.com/company/badoo/blog/352754/) |
+| [Фаззинг: новое юнит тестирование. Дмитрий Вьюков, Google.](https://youtu.be/EJVp13f_aIs) | 43:38 | [:notebook:](https://talks.godoc.org/github.com/dvyukov/go-fuzz/slides/fuzzing.slide#1), [:octocat:](https://github.com/dvyukov/go-fuzz/tree/master/slides) |
+| ~~Jessie Frazelle. 101 Ways to Compile a Go Binary.~~ | | [:notebook:](https://docs.google.com/presentation/d/1GPb_fGBvKBmsErmusfPGrt6px__Elj6JPwP_cLskjXk/edit#slide=id.g354cc8b4bf_0_0) |
+| [Ashley McNamara + Brian Ketelsen. Go best practices.](https://youtu.be/MzTcsI6tn-0) | 39:52 | [:notebook:](https://talks.bjk.fyi/bketelsen/gcru18-best#/) |
+| [Пишем свою криптовалюту на Go. Станислав Афанасьев, Juno by Gett.](https://youtu.be/72y2vFPpqHg) | 35:04 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/Write%20your%20own%20cryptocurrency%20in%20Go%20-%20Stas%20Afanasiev.pdf), [:octocat:](https://github.com/superstas/gcoin) |
+| [Работа с сетью в Go. Алексей Акулович, Вконтакте.](https://youtu.be/p1ILhiq5Clw) | 42:12 | [:notebook:](https://github.com/GopherConRu/talks/blob/master/2018/Networking%20in%20Go%20-%20Aleksey%20Akulovich.pdf) |
+| [Создание эффективной клиентской библиотеки statsd. Андрей Смирнов, Virtustream](https://youtu.be/OBHK6YjIS1U) | 42:09 | [:notebook:](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide#1), [:octocat:](https://github.com/smira/gopherconru2018) |
+
+
 ## Go 1.10 Release Party @ Badoo
 
 Событие: https://habrahabr.ru/company/badoo/blog/350490/
