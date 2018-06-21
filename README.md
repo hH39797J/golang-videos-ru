@@ -10,6 +10,7 @@
 ## Содержание
 
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
+  * [GoWay Meetup v1\.4](#goway-meetup-v14)
   * [Go Meetup SPb](#go-meetup-spb)
   * [GoWay Meetup v1\.3](#goway-meetup-v13)
   * [Golang Lviv Spring Meetup](#golang-lviv-spring-meetup)
@@ -35,6 +36,19 @@
 
 
 # События
+
+## GoWay Meetup v1.4
+
+Событие: https://eventspace-by.timepad.ru/event/739261/
+
+Дата: **13 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| ["Beyond the REST gRPC : GraphQL approach to microservices", Dmitry Saveliev](https://youtu.be/3jzLq8Hyvk8) | 47:54 | |
+| ["GoUnit Ещё раз о тестировании", Max Chechel](https://youtu.be/Bbi0afFrMjY) | 39:47 | |
+| ["Vim Go No Pain No Gain", Max Ovseychik](https://youtu.be/Ej4g2q6-qJA) | 29:54 | |
+
 
 ## Go Meetup SPb
 
