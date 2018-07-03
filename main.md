@@ -27,6 +27,19 @@
 | ["Vim Go No Pain No Gain", Max Ovseychik](https://youtu.be/Ej4g2q6-qJA) | 29:54 | |
 
 
+## Kharkiv Go Meetup June 2018
+
+Событие: https://www.meetup.com/Events-by-SoftServe/events/250908515/
+
+Дата: **02 июня 2018**
+
+| | | |
+| --- | :---: | --- |
+| [Interfaces, how does abstraction work - Denys Goldiner](https://youtu.be/BRYMuJgWN90?t=12m24s) | 48:57 (начиная с 12:24) | |
+| [Fuzzing, more than just testing - Andrii Panasenko](https://youtu.be/gzqV1Kd5bd8?t=1m2s) | 36:01 (начиная с 1:02) | |
+| [Microservice in Go: from client to storage - Dmytro Lahoza](https://youtu.be/NB8YAKvX0GI) | 1:31:21 | |
+
+
 ## Go Meetup SPb
 
 Событие: https://golang-spb.timepad.ru/event/710520/
