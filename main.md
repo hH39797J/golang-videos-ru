@@ -40,6 +40,18 @@
 | [Microservice in Go: from client to storage - Dmytro Lahoza](https://youtu.be/NB8YAKvX0GI) | 1:31:21 | |
 
 
+## Kyiv Go Meetup May 2018
+
+Событие: https://www.meetup.com/uagolang/events/250606720/
+
+Дата: **18 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [[RU] Go Frontend - Alexey Grachov](https://youtu.be/xF2xUKIk2MQ) | 20:34 | |
+| [[EN] Go as an Agent Based Model Simulation Tool - Ivan Danyliuk](https://youtu.be/fZLEr3ZX9h0) | 54:20 | |
+
+
 ## Go Meetup SPb
 
 Событие: https://golang-spb.timepad.ru/event/710520/
