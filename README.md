@@ -12,6 +12,7 @@
 * [События](#%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F)
   * [GoWay Meetup v1\.4](#goway-meetup-v14)
   * [Kharkiv Go Meetup June 2018](#kharkiv-go-meetup-june-2018)
+  * [Kyiv Go Meetup May 2018](#kyiv-go-meetup-may-2018)
   * [Go Meetup SPb](#go-meetup-spb)
   * [GoWay Meetup v1\.3](#goway-meetup-v13)
   * [Golang Lviv Spring Meetup](#golang-lviv-spring-meetup)
@@ -62,6 +63,18 @@
 | [Interfaces, how does abstraction work - Denys Goldiner](https://youtu.be/BRYMuJgWN90?t=12m24s) | 48:57 (начиная с 12:24) | |
 | [Fuzzing, more than just testing - Andrii Panasenko](https://youtu.be/gzqV1Kd5bd8?t=1m2s) | 36:01 (начиная с 1:02) | |
 | [Microservice in Go: from client to storage - Dmytro Lahoza](https://youtu.be/NB8YAKvX0GI) | 1:31:21 | |
+
+
+## Kyiv Go Meetup May 2018
+
+Событие: https://www.meetup.com/uagolang/events/250606720/
+
+Дата: **18 мая 2018**
+
+| | | |
+| --- | :---: | --- |
+| [[RU] Go Frontend - Alexey Grachov](https://youtu.be/xF2xUKIk2MQ) | 20:34 | |
+| [[EN] Go as an Agent Based Model Simulation Tool - Ivan Danyliuk](https://youtu.be/fZLEr3ZX9h0) | 54:20 | |
 
 
 ## Go Meetup SPb
