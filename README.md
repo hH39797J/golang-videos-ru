@@ -34,7 +34,6 @@
   * [Go 1\.8 release party Moscow](#go-18-release-party-moscow)
   * [Go Meetup 6\.8\.2016](#go-meetup-682016)
   * [Весенний Go](#%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9-go)
-* [Учебные материалы](#%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5-%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B)
 
 
 # События
@@ -398,10 +397,5 @@
 | [«Reform: путь к лучшему ORM», Алексей Палажченко](https://youtu.be/IFBnCh_rs6g) | 40:25 | [:notebook:](https://speakerdeck.com/aleksi/reform-put-k-luchshiemu-orm) |
 
 
-# Учебные материалы
-
-| | | | |
-| --- | :---: | :---: | :---: |
-| ["Оптимизация размера бинарников в Go" - открытая лекция Искандера Шарипова в Иннополисе](https://youtu.be/HpriPuIfrGE) | Iskander Sharipov | 01 видео (49:20) [:notebook:](https://docs.google.com/presentation/d/1zGX5nlOOPC22-ZrwTWLBKdKfoA03baawo4f9MK2G5Aw/edit#slide=id.g33148270ac_0_143) | 31 мая 2018 |
-| [Лекции Техносферы: Программирование на Go](https://habrahabr.ru/company/mailru/blog/327966/) | Mail.Ru, Василий Романов, Илья Ожерельев, Дмитрий Дорофеев | 09 видео | 10 мая 2017 |
+----
 
